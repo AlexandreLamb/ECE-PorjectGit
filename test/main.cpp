@@ -10,5 +10,7 @@ int main()
     cin >> a >> b;
     c = a+b;
     cout << "the addition between those two numbers results in : " << c << endl;
+
+    cout<< "alex message"<< endl;
      return 0;
  }
